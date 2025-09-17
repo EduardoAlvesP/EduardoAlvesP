@@ -8,7 +8,7 @@ Meus interesses iniciais foram em desenvolvimento web e inteligência artificial
 
 ### Minhas estatísticas do GitHub
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduardoAlvesP&show_icons=true&theme=dracula)
 
 ---
 
@@ -19,7 +19,7 @@ Aqui estão as linguagens e tecnologias com as quais tenho experiência:
 * **Linguagens:** C, Python, SQL, PHP, JavaScript, C#, CSS, HTML
 * **Foco Atual:** Python e SQL (para a área de dados)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlvesP&layout=compact&theme=dracula)
 
 ---
 
