@@ -2,7 +2,7 @@
 
 Sou um eterno apaixonado por tecnologia desde a infância. Técnico em Informática pelo CEFET-RJ, atualmente estou me graduando em Ciência da Computação pela UFRRJ.
 
-Meus interesses iniciais foram em desenvolvimento web e inteligência artificial, mas atualmente estou focado na área de **Dados**.
+Meus interesses iniciais foram em desenvolvimento web, mas atualmente estou focado na área de **Dados**.
 
 ---
 
@@ -32,10 +32,10 @@ Meus interesses iniciais foram em desenvolvimento web e inteligência artificial
 
 ### Top Linguagens no GitHub
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlvesP&layout=compact&theme=nord)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlvesP&layout=compact&theme=prussian)
 
 ---
 
 ### Conecte-se comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-alvesp)
