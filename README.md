@@ -2,7 +2,7 @@
 
 Sou um eterno apaixonado por tecnologia desde a infância. Técnico em Informática pelo CEFET-RJ, atualmente estou me graduando em Ciência da Computação pela UFRRJ.
 
-Meus interesses iniciais foram em desenvolvimento web e inteligência artificial, mas atualmente estou totalmente focado na área de **Engenharia de Dados**.
+Meus interesses iniciais foram em desenvolvimento web e inteligência artificial, mas atualmente estou focado na área de **Dados**.
 
 ---
 
