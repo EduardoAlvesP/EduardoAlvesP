@@ -18,6 +18,11 @@ Engenheiro de dados em formação. Técnico em Informática pelo CEFET-RJ e grad
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 **Conceitos:** arquitetura medalhão (bronze/silver/gold) · modelagem dimensional · ETL/ELT · Delta Lake · Unity Catalog · qualidade de dados · LGPD/anonimização
 
@@ -51,8 +56,14 @@ Engenheiro de dados em formação. Técnico em Informática pelo CEFET-RJ e grad
 
 ### 📊 Estatísticas do GitHub
 
-![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduardoAlvesP&show_icons=true&hide=stars,issues&theme=prussian&custom_title=Minhas%20Estatísticas)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAlvesP&layout=compact&theme=prussian)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoAlvesP&theme=github_dark" height="165" alt="Estatísticas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardoAlvesP&theme=github_dark" height="165" alt="Linguagens por repositório" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=EduardoAlvesP&theme=dark&locale=pt_BR" alt="Sequência de contribuições" />
+</p>
 
 ---
 
